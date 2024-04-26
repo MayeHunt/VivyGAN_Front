@@ -2,6 +2,8 @@
 
 This project should be used in conjunction with the [VivyGAN API](https://github.com/MayeHunt/VivyGAN_API).
 
+This is a React web app featuring a simple UI for operating API endpoints and displaying the returned information as part of my undergraduate dissertation.
+
 ## Setup Guide
 To use this application:
 
