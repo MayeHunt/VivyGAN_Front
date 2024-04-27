@@ -5,6 +5,7 @@ This project **must** be used in conjunction with the [VivyGAN API](https://gith
 This is a React web app featuring a simple UI for operating API endpoints and displaying the returned information as part of my undergraduate dissertation.
 
 ## Setup Guide
+This application requires [Node.js](https://nodejs.org/en/download).
 To use this application:
 
 1. `git clone https://github.com/MayeHunt/VivyGAN_Front.git` to clone this repo.
